@@ -1,2 +1,2 @@
-# week1
-Week 1 of CS50
+# cs50
+
